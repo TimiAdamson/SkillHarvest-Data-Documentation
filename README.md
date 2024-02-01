@@ -1,5 +1,14 @@
 # SkillHarvest-Data-Documentation
 
+
+**Documentation Outline**
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Data Analysis](#data-analysis)
+
+
 ## Project Overview
 In the dynamic landscape of e-commerce, understanding customer behavior is crucial for personalized marketing strategies and overall business growth. This project focuses on leveraging data analysis techniques to segment customers and derive actionable insights from their interactions with an e-commerce platform.
 
@@ -34,3 +43,10 @@ WHERE A, B, C = 5
 This is where we put the insights gotten from the analysis
 
 ![](OIP.jpg)
+
+💻
+
+
+|Heading 1 | Heading 2| Heading 3|
+| ---------| ---------| ---------|
+|Data 1|Data 2|Data 3| 
