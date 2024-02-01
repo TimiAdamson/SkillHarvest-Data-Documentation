@@ -34,5 +34,3 @@ WHERE A, B, C = 5
 This is where we put the insights gotten from the analysis
 
 ![](OIP.jpg)
-
-![](
